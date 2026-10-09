@@ -1,2 +1,2 @@
-# super-duper-octo-umbrella
-A simple Python Task Manager application to add, view, and manage tasks.
+# SWYNEX-Python-CLI-Application
+Python CLI Task Manager application for SWYNEX internship
